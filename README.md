@@ -116,7 +116,7 @@ Embedded-RC-Car-Updated-Version/
 
 ## 📄 License
 
-This project is licensed under the [Patch 2.0](LICENSE).  
+This project is licensed under the [Apatch 2.0](LICENSE).  
 You're free to use, modify, and distribute it with attribution.
 
 ---
